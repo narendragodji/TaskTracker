@@ -2,7 +2,7 @@
 
 Simple Task Tracker CLI to add, update, delete, and list tasks.
 
-Project URL: <REPLACE_WITH_YOUR_GITHUB_REPOSITORY_URL>
+Project URL: (https://github.com/narendragodji/TaskTracker)
 
 Usage examples:
 
@@ -32,22 +32,3 @@ python task-cli.py list done
 Requirements:
 - Python 3
 - No external libraries
-
-Instructions to publish to GitHub:
-
-1. Create a public repository on GitHub (do not initialize with a README).
-2. Run these commands in this project folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-# replace URL below with the GitHub repo URL shown on GitHub
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git branch -M main
-git push -u origin main
-```
-
-3. Replace the `Project URL` line at the top of this README with the repository URL.
-
-Once you've pushed, return here with the public repository URL and I'll verify the README contains it and the repo looks correct.
