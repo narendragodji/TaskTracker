@@ -2,7 +2,7 @@
 
 Simple Task Tracker CLI to add, update, delete, and list tasks.
 
-Project URL: (https://github.com/narendragodji/TaskTracker)
+Project URL: (https://roadmap.sh/projects/task-tracker)
 
 Usage examples:
 
