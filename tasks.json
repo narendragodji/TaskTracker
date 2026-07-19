@@ -1,0 +1,16 @@
+{
+  "1": {
+    "id": "1",
+    "description": "Smoke test task",
+    "status": "todo",
+    "createdAt": "2026-07-20 02:45:06.310363",
+    "updatedAt": "2026-07-20 02:45:06.310363"
+  },
+  "2": {
+    "id": "2",
+    "description": "Push This To Git",
+    "status": "in-progress",
+    "createdAt": "2026-07-20 03:09:50.791420",
+    "updatedAt": "2026-07-20 03:10:37.664753"
+  }
+}
